@@ -1,3 +1,4 @@
 Before submitting, check that you have added the following files to your GitHub repository:
 - your Jupyter Notebook, and
 - all files and directories created during the module test
+Finally, ensure that you push your changes to GitHub.
